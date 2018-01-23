@@ -1,0 +1,56 @@
+
+
+
+.form-upload span {
+    display: inline-block;
+    min-width: 90px;
+}
+
+button {
+    width: 120px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #fff;
+    background-color: #35a6e8;
+    border: #35a6e8;
+    font-size: 18px;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #2F5BA8;
+    border: #2F5BA8;
+    border-radius: 3px;
+}
+
+.form-upload p {
+    margin: 10px;
+    color: #777;
+    font-size: 14px;
+
+}
+
+.form-upload ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+    margin: 10px;
+
+}
+
+.form-upload ul li img{
+    width: 120px;
+    height: 120px;
+    box-sizing: border-box;
+}
+
+.form-upload ul li span {
+    font-size: 16px;
+    color: red;
+    font-weight: bold;
+    position: absolute;
+    top: 0px;
+    right: -25px;
+}
+

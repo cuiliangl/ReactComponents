@@ -1,0 +1,17 @@
+
+.radio_label {
+    margin-right: 20px;
+
+}
+
+.radio_label span {
+    display: inline-block;
+    vertical-align: middle;
+    min-width: 50px;
+}
+
+.radio_input input {
+    display: inline-block;
+    vertical-align: middle;
+
+}
